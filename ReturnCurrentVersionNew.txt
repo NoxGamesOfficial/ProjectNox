@@ -1,1 +1,3 @@
-<color=orange>WELCOME TO PROJECT NOX!</color> \n <color=magenta>.GG/PROJECTNOX</color>
+<color=red>WELCOME TO PROJECT NOX!</color>
+<color=purple>MODDING IS ALLOWED!</color>
+<color=magenta>.GG/PROJECTNOX</color>
